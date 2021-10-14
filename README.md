@@ -27,3 +27,7 @@ Our model was built using a training data with enough samples to classify sentim
 
 These models require numerical data for classification; hence, it is imperative to vectorize and convert the dataset to TF-IDF respectively. Next step was to scale, fit the model and predict the classes/labels of each product review using the listed classifiers. The output revealed that Logistic Regression and SVM have higher accuracy compared to other classifiers.
 Refer to the code to see results graph.
+
+### **Code Contributors**
+1. https://github.com/madserrano/
+2. https://github.com/jonatasaguiar
